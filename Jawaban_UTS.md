@@ -24,7 +24,7 @@ lalu jalankan dengan perintah docker run
 
 imagesyahridal saya buat pada Dockerfilenya dengan menggunakan base image dari ubuntu
 
-![versidocker](Dockerfile.png)
+![versidocker](dockerfile.png)
 
 5. selanjutnya ialah push image yang sudah dibuat sendiri ke dockerhub caranya adalah dengan menggunkan docker tag sebagai add repo/image yang ingin di push kemudian dengan docker push sebagai push ke docker hub
 

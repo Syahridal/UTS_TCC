@@ -32,7 +32,7 @@ imagesyahridal saya buat pada Dockerfilenya dengan menggunakan base image dari u
 
 dan berikut adalah hasil push dari docker toolbox ke docker hub
 
-![versidocker](Dockerhub.png)
+![versidocker](dockerhub.png)
 
 link repo docker hub
 
